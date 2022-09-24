@@ -30,3 +30,21 @@
 - This domain has be one of the most affected by technology in the past 5-10 years. With the rise of smarphones and we moved from physical payments with cas or credit carts to digial payments with our phones.
 
 - Some of the other companis in this domain include Paypal, Square, WePay and Adyen.
+
+## Results
+
+- Stipe has helped businesses, startups and entrepeneurs have easy access to the online platform for paying processing.
+
+- To Measure Stripe’s success in the Payments and Processing Fintech Domain, three main metrics known as KPI’s, which are key performance indicators that measurs different aspects of the payment system must be analysed. The first metric is the Payment Conversion Rate, which quantifies the amount of transactions which were declined. In 2017, Stripe had accounted for 5.3% of transactions had failed. The second KPI reflects the annual gross transaction volume exceed $300 billion in 2020 alone. The final KPI which will be used is the overall revenue growth rate, for-which equates to a 393% increase from $1.5 billion to $7.4 billion respectively.
+
+- To compare Stripe’s performance relative to its competitors in the domain, both PayPal and Square. Zacks Investment Research recorded PayPal had accounted for 9% of transactions had failed, and PayPals 2021 Annal Report identified the annual gross transaction volume of $936 billion. Thus, PayPal’s revenue growth increased by 18.26% from 2020, to account for $25.371 billion. Furthemore, due to Square’s policy which does not allow merchants to accept payments upwards of $50,000, it is unreasonable to compare the Payment Conversion Rate, thus the annual gross transaction volume will be accounted for, which resulted in $45.4 billion in 2021. Additionally, Square’s overall revenue growth rate totalled a 25.74% increase which came in at $3.8 billion. Therefore, based on the core metrics documented, it is evident to suggest that Stripe are successfully operating, as they have been able to maintain growth throughout its life cycle, and accumulates respective annual growth, as well as offering superior services, in relation to Square’s inability to accept large amounts of capital.
+
+## Recommendations
+
+- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+- Why do you think that offering this product or service would benefit the company?
+
+- What technologies would this additional product or service utilize?
+
+- Why are these technologies appropriate for your solution?
