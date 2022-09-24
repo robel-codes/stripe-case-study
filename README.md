@@ -1,8 +1,11 @@
 # Stripe
 
+![Stripe](images/logo.png)
+
 ## Overview and Origin
 
-- [Stripe](htpps://stripe.com)
+- [Stripe](https://stripe.com)
+
 - Stripe is financial services and software as a service(SaaS) company that primarily offers payment processing software and application programming interfaces(APIs) for e-commerce websites and mobile applications.
 
 - Stripe, founded by brothers Patrick and John Collision in Palo Alto, California, in 2010. The company received investment of $2 million including from PayPal co-founders Elon Musk and Peter Thiel, venture capital firms Sequoia Capital, Andreessen Horowitz, and SV Angel.
@@ -41,10 +44,26 @@
 
 ## Recommendations
 
-- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+- I would recommend to start peer to peer money transfer service like zelle, or cashapp. with there is of API intergration this can potentially enable them to dominate the payment processing domain.
 
-- Why do you think that offering this product or service would benefit the company?
+### sources
 
-- What technologies would this additional product or service utilize?
+https://www.crunchbase.com/organization/stripe/company_financials
 
-- Why are these technologies appropriate for your solution?
+https://www.startupgrind.com/blog/the-collison-brothers-and-story-behind-the-founding-of-stripe/
+
+https://www.inc.com/jason-aten/the-5-simple-reasons-stripe-became-most-valuable-startup-ever.html
+
+https://stackshare.io/stripe/stripe
+
+https://thestrategystory.com/2021/06/12/stripe-growth-strategy/
+
+https://en.wikipedia.org/wiki/Stripe,_Inc.
+
+https://backlinko.com/stripe-users
+
+https://startupgrind.com/blog/the-collison-brothers-and-story-behind-the-founding-of-stripe/
+
+https://nerdwallet.com/article/small-buisness/what-is-stripe
+
+https://stripe.com/payments/payment-methods-guide
