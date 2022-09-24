@@ -1,6 +1,6 @@
 # Stripe
 
-![Stripe](images/logo.png)
+![Stripe](images/stripe-logo.png)
 
 ## Overview and Origin
 
