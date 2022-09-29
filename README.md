@@ -1,6 +1,6 @@
 # Stripe
 
-![Stripe](images/stripe-logo.png)
+![Stripe](https://images.ctfassets.net/fzn2n1nzq965/3AGidihOJl4nH9D1vDjM84/9540155d584be52fc54c443b6efa4ae6/homepage.png?q=80)
 
 ## Overview and Origin
 
